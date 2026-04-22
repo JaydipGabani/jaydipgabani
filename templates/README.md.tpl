@@ -2,6 +2,12 @@
 
 I work on Kubernetes policy and governance. I'm an active contributor to [OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper) and the broader [Open Policy Agent](https://github.com/open-policy-agent) ecosystem.
 
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://github.com/JaydipGabani)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://github.com/JaydipGabani)
+[![OPA](https://img.shields.io/badge/Open%20Policy%20Agent-7D9199?logo=openpolicyagent&logoColor=white)](https://github.com/open-policy-agent)
+[![Rego](https://img.shields.io/badge/Rego-7D9199?logo=openpolicyagent&logoColor=white)](https://github.com/open-policy-agent/gatekeeper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydip-gabani/)
+
 #### 🌱 My latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}

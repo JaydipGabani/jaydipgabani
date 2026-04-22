@@ -1,0 +1,44 @@
+name: Profile Health Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * 1'
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: List workflows and state
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "## Workflow Status" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          gh workflow list --repo "${{ github.repository }}" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Show latest runs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "## Latest Runs" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          gh run list --repo "${{ github.repository }}" --limit 10 >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Verify recent README update
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "## README Freshness" >> "$GITHUB_STEP_SUMMARY"
+          LAST_README_RUN=$(gh run list --repo "${{ github.repository }}" --workflow profile-readme.yml --limit 1 --json conclusion,updatedAt --jq '.[0]')
+          echo "Last profile-readme run: $LAST_README_RUN" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Verify recent metrics update
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "## Metrics Freshness" >> "$GITHUB_STEP_SUMMARY"
+          LAST_METRICS_RUN=$(gh run list --repo "${{ github.repository }}" --workflow profile-metrics.yml --limit 1 --json conclusion,updatedAt --jq '.[0]')
+          echo "Last profile-metrics run: $LAST_METRICS_RUN" >> "$GITHUB_STEP_SUMMARY"

@@ -18,7 +18,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (2 days ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 days ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (2 days ago)
@@ -26,11 +26,11 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🔨 Recent pull requests
 
+- [Enhance celtest package with admission policy support and tests](https://github.com/kubernetes/kubernetes/pull/138564) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [fix: bumping on goluncheck sha that pins deps to full commit](https://github.com/open-policy-agent/frameworks/pull/713) on [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 days ago)
 - [gh cli for immutable release](https://github.com/JaydipGabani/gatekeeper/pull/138) on [JaydipGabani/gatekeeper](https://github.com/JaydipGabani/gatekeeper) (4 days ago)
 - [Exposing createEnvForOpts for adding test packges](https://github.com/kubernetes/kubernetes/pull/138409) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [fix: clean up stale VAPB when vap.k8s.io removed from constraint (CP #4446)](https://github.com/open-policy-agent/gatekeeper/pull/4507) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
-- [chore: bump kubectl from v1.35.2 to v1.35.3 (CP #4458)](https://github.com/open-policy-agent/gatekeeper/pull/4497) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 

@@ -18,7 +18,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 week ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 weeks ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (2 weeks ago)
@@ -26,7 +26,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🔨 Recent pull requests
 
-- [Enhance celtest package with admission policy support and tests](https://github.com/kubernetes/kubernetes/pull/138564) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
+- [Enhance celtest package with admission policy support and tests](https://github.com/kubernetes/kubernetes/pull/138564) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [fix: bumping on goluncheck sha that pins deps to full commit](https://github.com/open-policy-agent/frameworks/pull/713) on [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 weeks ago)
 - [gh cli for immutable release](https://github.com/JaydipGabani/gatekeeper/pull/138) on [JaydipGabani/gatekeeper](https://github.com/JaydipGabani/gatekeeper) (2 weeks ago)
 - [Exposing createEnvForOpts for adding test packges](https://github.com/kubernetes/kubernetes/pull/138409) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
@@ -34,7 +34,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.16.1](https://github.com/open-policy-agent/opa/releases/tag/v1.16.1), 6 days ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.16.1](https://github.com/open-policy-agent/opa/releases/tag/v1.16.1), 1 week ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.22.2](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.22.2), 1 week ago) - 🐊 Policy Controller for Kubernetes
 - [JaydipGabani/cel-test](https://github.com/JaydipGabani/cel-test) ([v0.1.0](https://github.com/JaydipGabani/cel-test/releases/tag/v0.1.0), 1 month ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.16.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.16.0), 1 month ago)

@@ -26,11 +26,11 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🔨 Recent pull requests
 
+- [recipe: add gatekeeper as optional component](https://github.com/NVIDIA/aicr/pull/821) on [NVIDIA/aicr](https://github.com/NVIDIA/aicr) (today)
 - [Enhance celtest package with admission policy support and tests](https://github.com/kubernetes/kubernetes/pull/138564) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [fix: bumping on goluncheck sha that pins deps to full commit](https://github.com/open-policy-agent/frameworks/pull/713) on [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 weeks ago)
 - [gh cli for immutable release](https://github.com/JaydipGabani/gatekeeper/pull/138) on [JaydipGabani/gatekeeper](https://github.com/JaydipGabani/gatekeeper) (2 weeks ago)
 - [Exposing createEnvForOpts for adding test packges](https://github.com/kubernetes/kubernetes/pull/138409) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
-- [fix: clean up stale VAPB when vap.k8s.io removed from constraint (CP #4446)](https://github.com/open-policy-agent/gatekeeper/pull/4507) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 

@@ -18,7 +18,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 week ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 weeks ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (2 weeks ago)
@@ -26,7 +26,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🔨 Recent pull requests
 
-- [recipe: add gatekeeper as optional component](https://github.com/NVIDIA/aicr/pull/821) on [NVIDIA/aicr](https://github.com/NVIDIA/aicr) (1 day ago)
+- [recipe: add gatekeeper as optional component](https://github.com/NVIDIA/aicr/pull/821) on [NVIDIA/aicr](https://github.com/NVIDIA/aicr) (2 days ago)
 - [Enhance celtest package with admission policy support and tests](https://github.com/kubernetes/kubernetes/pull/138564) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [fix: bumping on goluncheck sha that pins deps to full commit](https://github.com/open-policy-agent/frameworks/pull/713) on [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 weeks ago)
 - [gh cli for immutable release](https://github.com/JaydipGabani/gatekeeper/pull/138) on [JaydipGabani/gatekeeper](https://github.com/JaydipGabani/gatekeeper) (2 weeks ago)

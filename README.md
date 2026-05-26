@@ -18,23 +18,23 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (5 days ago)
-- [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (5 days ago)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (6 days ago)
+- [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (6 days ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 month ago)
 - [JaydipGabani/cel-test](https://github.com/JaydipGabani/cel-test) (2 months ago)
 
 #### 🔨 Recent pull requests
 
-- [chore: bump golang.org/x/net to v0.55.0](https://github.com/open-policy-agent/gatekeeper/pull/4585) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 days ago)
-- [ci: fix Slack meeting reminder schedule](https://github.com/open-policy-agent/gatekeeper/pull/4584) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 days ago)
+- [chore: bump golang.org/x/net to v0.55.0](https://github.com/open-policy-agent/gatekeeper/pull/4585) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4 days ago)
+- [ci: fix Slack meeting reminder schedule](https://github.com/open-policy-agent/gatekeeper/pull/4584) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4 days ago)
 - [recipe: add gatekeeper as optional component](https://github.com/NVIDIA/aicr/pull/821) on [NVIDIA/aicr](https://github.com/NVIDIA/aicr) (2 weeks ago)
 - [Enhance celtest package with admission policy support and tests](https://github.com/kubernetes/kubernetes/pull/138564) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 - [fix: bumping on goluncheck sha that pins deps to full commit](https://github.com/open-policy-agent/frameworks/pull/713) on [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.16.2](https://github.com/open-policy-agent/opa/releases/tag/v1.16.2), 1 week ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.16.2](https://github.com/open-policy-agent/opa/releases/tag/v1.16.2), 2 weeks ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.22.2](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.22.2), 4 weeks ago) - 🐊 Policy Controller for Kubernetes
 - [JaydipGabani/cel-test](https://github.com/JaydipGabani/cel-test) ([v0.1.0](https://github.com/JaydipGabani/cel-test/releases/tag/v0.1.0), 2 months ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.16.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.16.0), 2 months ago)

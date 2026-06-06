@@ -18,15 +18,15 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 day ago)
-- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes (2 days ago)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (2 days ago)
+- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes (3 days ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (2 weeks ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 month ago)
 
 #### 🔨 Recent pull requests
 
-- [fix: avoid ConstraintPodStatus update churn during VAPB generation wait](https://github.com/open-policy-agent/gatekeeper/pull/4599) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 day ago)
+- [fix: avoid ConstraintPodStatus update churn during VAPB generation wait](https://github.com/open-policy-agent/gatekeeper/pull/4599) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 days ago)
 - [chore: bump golang.org/x/net to v0.55.0](https://github.com/open-policy-agent/gatekeeper/pull/4585) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 weeks ago)
 - [ci: fix Slack meeting reminder schedule](https://github.com/open-policy-agent/gatekeeper/pull/4584) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 weeks ago)
 - [recipe: add gatekeeper as optional component](https://github.com/NVIDIA/aicr/pull/821) on [NVIDIA/aicr](https://github.com/NVIDIA/aicr) (4 weeks ago)
@@ -34,7 +34,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🚀 Latest releases I've contributed to
 
-- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) ([v0.14.0](https://github.com/NVIDIA/aicr/releases/tag/v0.14.0), 4 days ago) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
+- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) ([v0.14.0](https://github.com/NVIDIA/aicr/releases/tag/v0.14.0), 5 days ago) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.17.0](https://github.com/open-policy-agent/opa/releases/tag/v1.17.0), 1 week ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.22.2](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.22.2), 1 month ago) - 🐊 Policy Controller for Kubernetes
 - [JaydipGabani/cel-test](https://github.com/JaydipGabani/cel-test) ([v0.1.0](https://github.com/JaydipGabani/cel-test/releases/tag/v0.1.0), 2 months ago)

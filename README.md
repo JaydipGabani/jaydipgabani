@@ -18,19 +18,19 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (today)
 - [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 day ago)
 - [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes (1 week ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (3 weeks ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 month ago)
 
 #### 🔨 Recent pull requests
 
+- [chore: bumping frameworks version](https://github.com/open-policy-agent/gatekeeper/pull/4606) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (today)
 - [fix: avoid ConstraintPodStatus update churn during VAPB generation wait](https://github.com/open-policy-agent/gatekeeper/pull/4599) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (6 days ago)
 - [chore: bump golang.org/x/net to v0.55.0](https://github.com/open-policy-agent/gatekeeper/pull/4585) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 weeks ago)
 - [ci: fix Slack meeting reminder schedule](https://github.com/open-policy-agent/gatekeeper/pull/4584) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 weeks ago)
 - [recipe: add gatekeeper as optional component](https://github.com/NVIDIA/aicr/pull/821) on [NVIDIA/aicr](https://github.com/NVIDIA/aicr) (1 month ago)
-- [Enhance celtest package with admission policy support and tests](https://github.com/kubernetes/kubernetes/pull/138564) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 

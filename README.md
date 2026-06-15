@@ -34,7 +34,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🚀 Latest releases I've contributed to
 
-- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) ([v0.15.0-rc2](https://github.com/NVIDIA/aicr/releases/tag/v0.15.0-rc2), today) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
+- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) ([v0.15.0](https://github.com/NVIDIA/aicr/releases/tag/v0.15.0), today) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.17.1](https://github.com/open-policy-agent/opa/releases/tag/v1.17.1), 1 week ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.22.2](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.22.2), 1 month ago) - 🐊 Policy Controller for Kubernetes
 - [JaydipGabani/cel-test](https://github.com/JaydipGabani/cel-test) ([v0.1.0](https://github.com/JaydipGabani/cel-test/releases/tag/v0.1.0), 2 months ago)

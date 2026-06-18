@@ -18,19 +18,19 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (today)
 - [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 day ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (6 days ago)
 - [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes (2 weeks ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (4 weeks ago)
 
 #### 🔨 Recent pull requests
 
+- [chore: bump frameworks/constraint to e1eaa1b](https://github.com/open-policy-agent/gatekeeper/pull/4626) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (today)
+- [chore: bump cert-controller to v0.16.0](https://github.com/open-policy-agent/gatekeeper/pull/4625) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (today)
 - [chore: bumping frameworks version](https://github.com/open-policy-agent/gatekeeper/pull/4606) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
 - [fix: avoid ConstraintPodStatus update churn during VAPB generation wait](https://github.com/open-policy-agent/gatekeeper/pull/4599) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 weeks ago)
 - [chore: bump golang.org/x/net to v0.55.0](https://github.com/open-policy-agent/gatekeeper/pull/4585) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 weeks ago)
-- [ci: fix Slack meeting reminder schedule](https://github.com/open-policy-agent/gatekeeper/pull/4584) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 weeks ago)
-- [recipe: add gatekeeper as optional component](https://github.com/NVIDIA/aicr/pull/821) on [NVIDIA/aicr](https://github.com/NVIDIA/aicr) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 

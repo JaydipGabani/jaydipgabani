@@ -18,8 +18,8 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (today)
 - [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (4 days ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 week ago)
 - [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes (2 weeks ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (1 month ago)

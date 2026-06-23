@@ -18,19 +18,19 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (today)
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 day ago)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 week ago)
 - [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes (2 weeks ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (1 month ago)
 
 #### 🔨 Recent pull requests
 
-- [ci: fix license-lint checkout order](https://github.com/open-policy-agent/gatekeeper/pull/4627) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4 days ago)
-- [chore: bump frameworks/constraint to e1eaa1b](https://github.com/open-policy-agent/gatekeeper/pull/4626) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4 days ago)
-- [chore: bump cert-controller](https://github.com/open-policy-agent/gatekeeper/pull/4625) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4 days ago)
+- [ci: Check out release PR workflow before Go setup](https://github.com/open-policy-agent/gatekeeper/pull/4634) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 day ago)
+- [ci: fix license-lint checkout order](https://github.com/open-policy-agent/gatekeeper/pull/4627) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (5 days ago)
+- [chore: bump frameworks/constraint to e1eaa1b](https://github.com/open-policy-agent/gatekeeper/pull/4626) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (5 days ago)
+- [chore: bump cert-controller](https://github.com/open-policy-agent/gatekeeper/pull/4625) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (5 days ago)
 - [chore: bumping frameworks version](https://github.com/open-policy-agent/gatekeeper/pull/4606) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
-- [fix: avoid ConstraintPodStatus update churn during VAPB generation wait](https://github.com/open-policy-agent/gatekeeper/pull/4599) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 

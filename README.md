@@ -18,8 +18,8 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (2 days ago)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (3 days ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (1 week ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 month ago)
 - [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes (1 month ago)
@@ -28,21 +28,21 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 - [ci: group CodeQL action Dependabot updates](https://github.com/open-policy-agent/cert-controller/pull/526) on [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (1 week ago)
 - [ci: Check out release PR workflow before Go setup](https://github.com/open-policy-agent/gatekeeper/pull/4634) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 weeks ago)
-- [ci: fix license-lint checkout order](https://github.com/open-policy-agent/gatekeeper/pull/4627) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 weeks ago)
-- [chore: bump frameworks/constraint to e1eaa1b](https://github.com/open-policy-agent/gatekeeper/pull/4626) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 weeks ago)
-- [chore: bump cert-controller](https://github.com/open-policy-agent/gatekeeper/pull/4625) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (3 weeks ago)
+- [ci: fix license-lint checkout order](https://github.com/open-policy-agent/gatekeeper/pull/4627) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4 weeks ago)
+- [chore: bump frameworks/constraint to e1eaa1b](https://github.com/open-policy-agent/gatekeeper/pull/4626) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4 weeks ago)
+- [chore: bump cert-controller](https://github.com/open-policy-agent/gatekeeper/pull/4625) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) ([v0.17.0](https://github.com/NVIDIA/aicr/releases/tag/v0.17.0), 1 day ago) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.24.0-beta.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.24.0-beta.0), 2 days ago) - 🐊 Policy Controller for Kubernetes
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.18.2](https://github.com/open-policy-agent/opa/releases/tag/v1.18.2), 1 week ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+- [NVIDIA/aicr](https://github.com/NVIDIA/aicr) ([v0.17.0](https://github.com/NVIDIA/aicr/releases/tag/v0.17.0), 2 days ago) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.24.0-beta.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.24.0-beta.0), 3 days ago) - 🐊 Policy Controller for Kubernetes
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.18.2](https://github.com/open-policy-agent/opa/releases/tag/v1.18.2), 2 weeks ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [JaydipGabani/cel-test](https://github.com/JaydipGabani/cel-test) ([v0.1.0](https://github.com/JaydipGabani/cel-test/releases/tag/v0.1.0), 3 months ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) ([v0.16.0](https://github.com/open-policy-agent/cert-controller/releases/tag/v0.16.0), 4 months ago)
 
 #### ⭐ Recent stars
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (7 months ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (8 months ago)
 - [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform) - The Data Change Processing platform (8 months ago)
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 years ago)
 

@@ -18,15 +18,15 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (2 days ago)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (3 days ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (3 weeks ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 month ago)
 - [NVIDIA/aicr](https://github.com/NVIDIA/aicr) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes (1 month ago)
 
 #### 🔨 Recent pull requests
 
-- [feat: export admission violations from validation webhook](https://github.com/open-policy-agent/gatekeeper/pull/4716) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 day ago)
+- [feat: export admission violations from validation webhook](https://github.com/open-policy-agent/gatekeeper/pull/4716) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 days ago)
 - [fix: avoid redundant VAP status updates](https://github.com/open-policy-agent/gatekeeper/pull/4703) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
 - [ci: group CodeQL action Dependabot updates](https://github.com/open-policy-agent/cert-controller/pull/526) on [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (3 weeks ago)
 - [ci: Check out release PR workflow before Go setup](https://github.com/open-policy-agent/gatekeeper/pull/4634) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 month ago)
@@ -34,7 +34,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.19.0](https://github.com/open-policy-agent/opa/releases/tag/v1.19.0), 1 day ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.19.0](https://github.com/open-policy-agent/opa/releases/tag/v1.19.0), 2 days ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [NVIDIA/aicr](https://github.com/NVIDIA/aicr) ([v0.18.0](https://github.com/NVIDIA/aicr/releases/tag/v0.18.0), 1 week ago) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.24.0-beta.0](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.24.0-beta.0), 2 weeks ago) - 🐊 Policy Controller for Kubernetes
 - [JaydipGabani/cel-test](https://github.com/JaydipGabani/cel-test) ([v0.1.0](https://github.com/JaydipGabani/cel-test/releases/tag/v0.1.0), 4 months ago)

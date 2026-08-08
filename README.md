@@ -18,18 +18,18 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
-- [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) - Reusable agents, skills, and scripts that turn an LLM-assisted IDE into a multi-repo, multi-agent dev workflow with durable session memory, daily standup briefs, parallel-agent isolation, and distilled PR review/author voices. (1 day ago)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (2 days ago)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
+- [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 day ago)
+- [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) - Reusable agents, skills, and scripts that turn an LLM-assisted IDE into a multi-repo, multi-agent dev workflow with durable session memory, daily standup briefs, parallel-agent isolation, and distilled PR review/author voices. (2 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (3 days ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (1 month ago)
-- [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 month ago)
 
 #### 🔨 Recent pull requests
 
-- [feat: add semantic VS Code session titles](https://github.com/JaydipGabani/agentkit/pull/4) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (1 day ago)
-- [feat: start autoreview on fresh reviews](https://github.com/JaydipGabani/agentkit/pull/3) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (1 day ago)
-- [feat: integrate OpenClaw autoreview with PR Reviewer](https://github.com/JaydipGabani/agentkit/pull/2) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (2 days ago)
-- [feat: publish reusable agent and skill toolkit](https://github.com/JaydipGabani/agentkit/pull/1) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (2 days ago)
+- [feat: add semantic VS Code session titles](https://github.com/JaydipGabani/agentkit/pull/4) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (2 days ago)
+- [feat: start autoreview on fresh reviews](https://github.com/JaydipGabani/agentkit/pull/3) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (2 days ago)
+- [feat: integrate OpenClaw autoreview with PR Reviewer](https://github.com/JaydipGabani/agentkit/pull/2) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (3 days ago)
+- [feat: publish reusable agent and skill toolkit](https://github.com/JaydipGabani/agentkit/pull/1) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (3 days ago)
 - [feat: export admission violations from validation webhook](https://github.com/open-policy-agent/gatekeeper/pull/4716) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to

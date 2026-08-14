@@ -18,7 +18,7 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (1 week ago)
 - [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) - Reusable agents, skills, and scripts that turn an LLM-assisted IDE into a multi-repo, multi-agent dev workflow with durable session memory, daily standup briefs, parallel-agent isolation, and distilled PR review/author voices. (1 week ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 week ago)
@@ -26,11 +26,11 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🔨 Recent pull requests
 
+- [Read named admission policy params while informers sync](https://github.com/kubernetes/kubernetes/pull/141369) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [Resolve admission policy CRD paramKinds from CRD informer](https://github.com/kubernetes/kubernetes/pull/141368) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [feat: add semantic VS Code session titles](https://github.com/JaydipGabani/agentkit/pull/4) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (1 week ago)
 - [feat: start autoreview on fresh reviews](https://github.com/JaydipGabani/agentkit/pull/3) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (1 week ago)
 - [feat: integrate OpenClaw autoreview with PR Reviewer](https://github.com/JaydipGabani/agentkit/pull/2) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (1 week ago)
-- [feat: publish reusable agent and skill toolkit](https://github.com/JaydipGabani/agentkit/pull/1) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (1 week ago)
-- [feat: export admission violations from validation webhook](https://github.com/open-policy-agent/gatekeeper/pull/4716) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 

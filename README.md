@@ -19,9 +19,9 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 #### 👷 Currently working on
 
 - [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (today)
 - [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - 📚 The OPA Gatekeeper policy library (1 day ago)
 - [open-policy-agent/cert-controller](https://github.com/open-policy-agent/cert-controller) (1 day ago)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (6 days ago)
 - [open-policy-agent/frameworks](https://github.com/open-policy-agent/frameworks) (2 weeks ago)
 
 #### 🔨 Recent pull requests

@@ -26,11 +26,11 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 🔨 Recent pull requests
 
+- [Move Rita Zhang to emeritus](https://github.com/open-policy-agent/opa/pull/9132) on [open-policy-agent/opa](https://github.com/open-policy-agent/opa) (today)
 - [fix: register current admission webhook subresources](https://github.com/open-policy-agent/gatekeeper/pull/4785) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (6 days ago)
 - [Read named admission policy params while informers sync](https://github.com/kubernetes/kubernetes/pull/141369) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [Resolve admission policy CRD paramKinds from CRD informer](https://github.com/kubernetes/kubernetes/pull/141368) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [feat: add semantic VS Code session titles](https://github.com/JaydipGabani/agentkit/pull/4) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (3 weeks ago)
-- [feat: start autoreview on fresh reviews](https://github.com/JaydipGabani/agentkit/pull/3) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 

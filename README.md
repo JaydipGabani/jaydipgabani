@@ -18,24 +18,24 @@ I work on Kubernetes policy and governance. I'm an active contributor to [OPA Ga
 
 #### 👷 Currently working on
 
-- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (today)
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (today)
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. (today)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 days ago)
+- [JaydipGabani/jaydipgabani](https://github.com/JaydipGabani/jaydipgabani) (1 day ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes (1 day ago)
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. (1 day ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 days ago)
 - [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library) - 📚 The OPA Gatekeeper policy library (1 week ago)
 
 #### 🔨 Recent pull requests
 
-- [Move Rita Zhang to emeritus](https://github.com/open-policy-agent/opa/pull/9132) on [open-policy-agent/opa](https://github.com/open-policy-agent/opa) (1 day ago)
+- [Move Rita Zhang to emeritus](https://github.com/open-policy-agent/opa/pull/9132) on [open-policy-agent/opa](https://github.com/open-policy-agent/opa) (2 days ago)
 - [fix: register current admission webhook subresources](https://github.com/open-policy-agent/gatekeeper/pull/4785) on [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) (1 week ago)
 - [Read named admission policy params while informers sync](https://github.com/kubernetes/kubernetes/pull/141369) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [Resolve admission policy CRD paramKinds from CRD informer](https://github.com/kubernetes/kubernetes/pull/141368) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-- [feat: add semantic VS Code session titles](https://github.com/JaydipGabani/agentkit/pull/4) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (3 weeks ago)
+- [feat: add semantic VS Code session titles](https://github.com/JaydipGabani/agentkit/pull/4) on [JaydipGabani/agentkit](https://github.com/JaydipGabani/agentkit) (4 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.20.1](https://github.com/open-policy-agent/opa/releases/tag/v1.20.1), 5 days ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.1), 6 days ago) - 🐊 Policy Controller for Kubernetes
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v1.20.1](https://github.com/open-policy-agent/opa/releases/tag/v1.20.1), 6 days ago) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ([v3.23.1](https://github.com/open-policy-agent/gatekeeper/releases/tag/v3.23.1), 1 week ago) - 🐊 Policy Controller for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [NVIDIA/aicr](https://github.com/NVIDIA/aicr) ([v0.20.0](https://github.com/NVIDIA/aicr/releases/tag/v0.20.0), 1 week ago) - Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
 - [JaydipGabani/cel-test](https://github.com/JaydipGabani/cel-test) ([v0.1.0](https://github.com/JaydipGabani/cel-test/releases/tag/v0.1.0), 5 months ago)
